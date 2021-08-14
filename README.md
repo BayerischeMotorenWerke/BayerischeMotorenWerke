@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I'm just a kid who doesn't know anything
 
 [![BayerischeMotorenWerke GitHub stats](https://github-readme-stats.vercel.app/api?username=BayerischeMotorenWerke)](https://github.com/anuraghazra/github-readme-stats)
-
-![BayerischeMotorenWerke github stats](https://github-stats-alpha.vercel.app/api/?username=BayerischeMotorenWerke&cc=FFFFFF&ic=DF7431&bc=FFFFFF&tc=000000)
