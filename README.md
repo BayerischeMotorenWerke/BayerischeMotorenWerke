@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... -
 - ⚡ Fun fact: ... I'm just a kid who doesn't know anything
 
+![](https://komarev.com/ghpvc/?username=BayerischeMotorenWerke&label=PROFILE+VIEWS)
+
 [![BayerischeMotorenWerke GitHub stats](https://github-readme-stats.vercel.app/api?username=BayerischeMotorenWerke)](https://github.com/anuraghazra/github-readme-stats)
