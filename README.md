@@ -5,7 +5,7 @@ I'm Bayerische Motoren Werke from Indonesia Maintainer Android Custom Rom Nusant
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Nusantara Project for Xiaomi MI A1 Tissot & Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://nusantaraproject.my.id
+- 🔭 I’m currently working on ... Nusantara Project for Xiaomi MI 8 Lite (Platina) & Xiaomi MI A1 (Tissot) & Xiaomi Redmi Note 7 (Lavender) & Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://nusantaraproject.my.id
 - 🔭 I’m currently working on ... Ancient OS for Xiaomi MI A1 Tissot & Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://sourceforge.net/projects/ancientrom/
 - 🔭 I’m currently working on ... xDroid OS for Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://sourceforge.net/projects/xdroidoss/
 - 🌱 I’m currently learning ... To be a developer
