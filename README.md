@@ -14,7 +14,7 @@ I’m currently working on ... xDroid OS for Xiaomi Redmi Note 10 Pro/Max (Sweet
 
 mailbox How to reach me: ... https://t.me/bmwtheseries
 
-" I'm just a kid who doesn't know anything "
+" I'm just a 14 year old kid and I don't know anything "
 
 
 
