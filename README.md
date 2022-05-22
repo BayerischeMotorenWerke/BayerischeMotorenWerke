@@ -7,14 +7,19 @@ I'm Bayerische Motoren Werke from Indonesia Maintainer Android Custom Rom Nusant
 Here are some ideas to get you started:
 
 telescope I’m currently working on ... Nusantara Project for Xiaomi MI 8 Lite (Platina) & Xiaomi MI A1 (Tissot) & Xiaomi Redmi Note 7 (Lavender) & Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://nusantaraproject.my.id
+
 telescope I’m currently working on ... Ancient OS for Xiaomi MI A1 Tissot & Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://sourceforge.net/projects/ancientrom/
+
 telescope I’m currently working on ... xDroid OS for Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://sourceforge.net/projects/xdroidoss/
+
 seedling I’m currently learning ... To be a developer
-dancers I’m looking to collaborate on ... -
+
 thinking I’m looking for help with ... Anyone who wants to help mesmile
+
 speech_balloon Ask me about ... I'm NooB
+
 mailbox How to reach me: ... https://t.me/bmwtheseries
-smile Pronouns: ... -
+
 zap Fun fact: ... I'm just a kid who doesn't know anything
 
 
