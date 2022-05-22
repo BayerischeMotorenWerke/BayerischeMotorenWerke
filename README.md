@@ -4,13 +4,17 @@
 
 I'm Bayerische Motoren Werke from Indonesia Maintainer Android Custom Rom Nusantara Project && Ancient OS && xDroid OS
 
-Here are some ideas to get you started:
+Nusantara Project https://nusantaraproject.my.id
 
-I’m currently working on ... Nusantara Project for Xiaomi MI 8 Lite (Platina) & Xiaomi MI A1 (Tissot) & Xiaomi Redmi Note 7 (Lavender) & Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://nusantaraproject.my.id
+Ancient OS        https://www.ancientrom.xyz/
 
-I’m currently working on ... Ancient OS for Xiaomi MI A1 Tissot & Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://sourceforge.net/projects/ancientrom/
+xDroid OS         https://www.pling.com/p/1716794/
 
-I’m currently working on ... xDroid OS for Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin) https://sourceforge.net/projects/xdroidoss/
+Device Support:
+Xiaomi MI A1 (Tissot)
+Xiaomi MI 8 Lite (Platina)
+Xiaomi Redmi Note 7 (Lavender)
+Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin)
 
 mailbox How to reach me: ... https://t.me/bmwtheseries
 
