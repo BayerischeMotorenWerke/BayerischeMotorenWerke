@@ -11,9 +11,13 @@ Ancient OS        https://www.ancientrom.xyz/
 xDroid OS         https://www.pling.com/p/1716794/
 
 Device Support:
+
 Xiaomi MI A1 (Tissot)
+
 Xiaomi MI 8 Lite (Platina)
+
 Xiaomi Redmi Note 7 (Lavender)
+
 Xiaomi Redmi Note 10 Pro/Max (Sweet/Sweetin)
 
 mailbox How to reach me: ... https://t.me/bmwtheseries
