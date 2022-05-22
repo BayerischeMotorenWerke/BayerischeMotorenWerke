@@ -2,7 +2,7 @@
 #### I'm a development from Indonesia 🇮🇩
 ![I'm a development from Indonesia 🇮🇩](https://pbs.twimg.com/profile_banners/1515271473782427651/1650107268/1500x500)
 
-I'm Bayerische Motoren Werke from Indonesia Maintainer Android Custom Rom Nusantara Project && Ancient OS && xDroid OS
+I'm Bayerische Motoren Werke from Indonesia 😝😝😝
 
 Nusantara Project https://nusantaraproject.my.id
 
