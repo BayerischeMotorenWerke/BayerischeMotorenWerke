@@ -1,7 +1,5 @@
-### Hi there 👋, Bayerische Motoren Werke
+### Hi there 👋,my name is BayerischeMotorenWerke
 ![I am development from Indonesia](https://pbs.twimg.com/profile_banners/1515271473782427651/1653217830/600x200)
-
-I'm Bayerische Motoren Werke from Indonesia 😝😝😝
 
 Nusantara Project https://nusantaraproject.my.id
 
