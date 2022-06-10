@@ -1,6 +1,8 @@
 ### Hi there 👋,my name is BayerischeMotorenWerke
 ![I am development from Indonesia](https://pbs.twimg.com/profile_banners/1515271473782427651/1653217830/600x200)
 
+I am Development Android Indonesia from DKI Jakarta
+
 Nusantara Project https://nusantaraproject.my.id
 
 Ancient OS        https://www.ancientrom.xyz/
