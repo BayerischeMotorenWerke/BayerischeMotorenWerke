@@ -1,6 +1,6 @@
 ### Hi there 👋, Bayerische Motoren Werke
 #### I'm a development from Indonesia 🇮🇩
-![I'm a development from Indonesia 🇮🇩]([https://pbs.twimg.com/profile_banners/1515271473782427651/1650107268/1500x500](https://twitter.com/bmwtheseries/header_photo))
+https://pbs.twimg.com/profile_banners/1515271473782427651/1653217830/600x200
 
 I'm Bayerische Motoren Werke from Indonesia 😝😝😝
 
